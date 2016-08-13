@@ -13,3 +13,9 @@
 [submodule "3rd_party/libtiff"]
 	path = 3rd_party/libtiff
 	url = https://github.com/vadz/libtiff.git
+[submodule "3rd_party/zlib"]
+	path = 3rd_party/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "3rd_party/libpng"]
+	path = 3rd_party/libpng
+	url = git://git.code.sf.net/p/libpng/code
