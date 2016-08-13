@@ -1,3 +1,12 @@
 [submodule "3rd_party/opus"]
 	path = 3rd_party/opus
 	url = https://git.xiph.org/opus.git
+[submodule "3rd_party/ogg"]
+	path = 3rd_party/ogg
+	url = https://git.xiph.org/ogg.git
+[submodule "3rd_party/vorbis"]
+	path = 3rd_party/vorbis
+	url = https://git.xiph.org/vorbis.git
+[submodule "3rd_party/tremor"]
+	path = 3rd_party/tremor
+	url = https://git.xiph.org/tremor.git
