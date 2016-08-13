@@ -10,7 +10,7 @@
 [submodule "3rd_party/tremor"]
 	path = 3rd_party/tremor
 	url = https://git.xiph.org/tremor.git
-[submodule "3rd_party/libtiff"]
+[submodule "3rd_party/libtiff"]# Unofficial repo
 	path = 3rd_party/libtiff
 	url = https://github.com/vadz/libtiff.git
 [submodule "3rd_party/zlib"]
@@ -19,7 +19,7 @@
 [submodule "3rd_party/libpng"]
 	path = 3rd_party/libpng
 	url = git://git.code.sf.net/p/libpng/code
-[submodule "3rd_party/libjpeg9"]
+[submodule "3rd_party/libjpeg9"]# Unofficial repo
 	path = 3rd_party/libjpeg9
 	url = https://github.com/winlibs/libjpeg.git
 [submodule "3rd_party/bullet"]
