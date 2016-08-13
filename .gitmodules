@@ -10,3 +10,6 @@
 [submodule "3rd_party/tremor"]
 	path = 3rd_party/tremor
 	url = https://git.xiph.org/tremor.git
+[submodule "3rd_party/libtiff"]
+	path = 3rd_party/libtiff
+	url = https://github.com/vadz/libtiff.git
