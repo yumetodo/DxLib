@@ -22,3 +22,6 @@
 [submodule "3rd_party/libjpeg9"]
 	path = 3rd_party/libjpeg9
 	url = https://github.com/winlibs/libjpeg.git
+[submodule "3rd_party/bullet"]
+	path = 3rd_party/bullet
+	url = https://github.com/bulletphysics/bullet3.git
