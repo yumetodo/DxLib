@@ -21,7 +21,7 @@
 	url = git://git.code.sf.net/p/libpng/code
 [submodule "3rd_party/libjpeg9"]# Unofficial repo
 	path = 3rd_party/libjpeg9
-	url = https://github.com/winlibs/libjpeg.git
+	url = https://github.com/yumetodo/libjpeg.git
 [submodule "3rd_party/bullet"]
 	path = 3rd_party/bullet
 	url = https://github.com/bulletphysics/bullet3.git
